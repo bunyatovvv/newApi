@@ -1,0 +1,54 @@
+[
+  {
+  "productName": "Summer Dress For Women",
+  "productId": "1",
+  "productPrice": "49",
+  "productDes": "Blue printed woven maxi dress, has a V-neck, short sleeves, flared hem\n\nSize & Fit\nSemi-fit\nThe model (height 5'8\") is wearing a size S\n\nMaterial & Care\nPolyester\nMachine-wash\n\n",
+  "productRating": 4.1,
+  "productDisCount": "",
+  "productHave": true,
+  "productBrand": "Dean Xnm",
+  "productImage": "https://img.freepik.com/free-photo/portrait-smiling-attractive-woman-summer-dress_171337-7151.jpg?w=1060&t=st=1675881420~exp=1675882020~hmac=e4db049a2cc8c3eaed4b115d6e5760cf12ed82a36e962234f1c67a46ce51d768",
+  "productCategory": "Clothing",
+  "productNote": "Dean Xnm"
+  },
+  {
+  "productName": "Green Dress for Women",
+  "productId": "2",
+  "productPrice": "99",
+  "productDes": "Green solid woven accordian pleats A-line dress with waist tie-up, has a Peter Pan collar, three-quarter puff sleeves, button closure, flared hem\n\nSize & Fit\nThe model (height 5'8\") is wearing a size S\n\nMaterial & Care\nPoly crepe\nDry-clean",
+  "productRating": 4.8,
+  "productDisCount": "16%",
+  "productHave": true,
+  "productBrand": "LookStudio",
+  "productImage": "https://img.freepik.com/free-photo/curly-haired-modern-girl-with-red-bright-big-lips-unusual-earrings-stylish-green-white-sundress-sunglasses_197531-24001.jpg?w=1060&t=st=1675881752~exp=1675882352~hmac=79710a0dc4c1e92ff12584c5e2e16b5a1344d2263cc8aa9cc659e9f273d3ece4",
+  "productCategory": "Clothing",
+  "productNote": "LookStudio"
+  },
+  {
+    "productName": "Summer hat for women",
+    "productId": "3",
+    "productPrice": "99",
+    "productDes": "Yellow summer hat for women Pan collar, three-quarter puff sleeves, button closure, flared hem\n\nSize & Fit\nThe model (height 5'8\") is wearing a size S\n\nMaterial & Care\nPoly crepe\nDry-clean",
+    "productRating": 3.7,
+    "productDisCount": "9%",
+    "productHave": true,
+    "productBrand": "Nakaridore",
+    "productImage": "https://img.freepik.com/free-photo/studio-photo-pretty-young-blue-eyed-blonde-female-with-natural-makeup-keeping-green-grapes-raised-hands-while-looking-camera-with-calm-face-standing-white-background_295783-9053.jpg?t=st=1675882051~exp=1675882651~hmac=62345efc4d3cc2b194068fa332f464d19f525e52169eb786650e06e5edac9b07",
+    "productCategory": "Clothing",
+    "productNote": "Nakaridore"
+  },
+  {
+    "productName": "Yellow dress for the women",
+    "productId": "4",
+    "productPrice": "65",
+    "productDes": "Yellow solid woven accordian pleats A-line dress with waist tie-up, has a Peter Pan collar, three-quarter puff sleeves, button closure, flared hem\n\nSize & Fit\nThe model (height 5'8\") is wearing a size S\n\nMaterial & Care\nPoly crepe\nDry-clean",
+    "productRating": 4.4,
+    "productDisCount": "",
+    "productHave": true,
+    "productBrand": "Svetlanasokolova",
+    "productImage": "https://img.freepik.com/free-photo/pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood_273443-4421.jpg?w=1060&t=st=1675882302~exp=1675882902~hmac=5484c48963b2e898b58afe0fba55ed92cafd9dfba01e24b19c78a9ece34db0e2",
+    "productCategory": "Clothing",
+    "productNote": "Svetlanasokolova"
+  }
+]
