@@ -1,0 +1,37 @@
+[
+  {
+  "name": "McDonald's",
+  "id": "1",
+  "des": "Burgers, sandwiches, snacks, beverages, combo meals",
+  "image": "https://i.hizliresim.com/c3lbmtu.png",
+  "rating": "4.4F"
+  },
+  {
+  "name": "KFC",
+  "id": "2",
+  "des": "Burgers, sandwiches, snacks, chicken, buckets",
+  "image": "https://i.hizliresim.com/buhlp62.png",
+  "rating": "4.6F"
+  },
+  {
+  "name": "Burger Kings",
+  "id": "3",
+  "des": "Burgers, sandwiches, snacks, beverages, combo meals",
+  "image": "https://i.hizliresim.com/hcw0r03.png",
+  "rating": "4.8F"
+  },
+  {
+  "name": "Domino's Pizza",
+  "id": "4",
+  "des": "Pizza, papadias, sides, salads, pasta",
+  "image": "https://i.hizliresim.com/kd78mr4.png",
+  "rating": "4.4F"
+  },
+  {
+  "name": "Starbucks",
+  "id": "5",
+  "des": "Coffee, espresso, drink",
+  "image": "https://i.hizliresim.com/8kuu1xc.png",
+  "rating": "4.0F"
+  }
+ ]
