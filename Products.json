@@ -40,33 +40,173 @@
   "productCategory": "Burgers"
   },
   {
-  "productName": "Hamburger",
+  "productName": "Double Cheeseburger",
   "productId": "5",
-  "productPrice": "2.10",
-  "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
+  "productPrice": "4.40",
+  "productDes": "Two 100% beefy patties, two slices of melted cheese, tangy pickles, minced onions, ketchup and mustard served in a caramelized bun.",
   "productDisCount": "",
   "productBrand": "McDonald's",
-  "productImage": "https://i.hizliresim.com/okpjcwc.jpg",
+  "productImage": "https://i.hizliresim.com/tv0amn1.jpg",
   "productCategory": "Burgers"
   },
   {
-  "productName": "Hamburger",
+  "productName": "Chickenburger",
   "productId": "6",
-  "productPrice": "2.10",
-  "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
+  "productPrice": "3.20",
+  "productDes": "A smaller crispy 100% chicken patty nestled inside a caramlized bun with salad and a special spicy tomato sauce.",
   "productDisCount": "",
   "productBrand": "McDonald's",
-  "productImage": "https://i.hizliresim.com/okpjcwc.jpg",
+  "productImage": "https://i.hizliresim.com/woep3w1.jpg",
   "productCategory": "Burgers"
   },
   {
-  "productName": "Hamburger",
+  "productName": "McChicken™",
   "productId": "7",
-  "productPrice": "2.10",
-  "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
+  "productPrice": "4.50",
+  "productDes": "Fried, breaded crispy chicken fillet served on a caramelized bun, with fresh Iceberg lettuce and special McChicken™ sauce.",
   "productDisCount": "",
   "productBrand": "McDonald's",
-  "productImage": "https://i.hizliresim.com/okpjcwc.jpg",
+  "productImage": "https://i.hizliresim.com/ac5ri78.jpg",
   "productCategory": "Burgers"
+  },
+  {
+  "productName": "Double McChicken™",
+  "productId": "8",
+  "productPrice": "6.80",
+  "productDes": "Two fried, breaded crispy chicken fillet served on a caramelized bun, with fresh Iceberg lettuce and special McChicken™ sauce.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/7fl6m12.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "French Fries (Extra)",
+  "productId": "9",
+  "productPrice": "4.30",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/2064tlq.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "French Fries (Large)",
+  "productId": "10",
+  "productPrice": "3.95",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/jy8nrci.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "French Fries (Medium)",
+  "productId": "11",
+  "productPrice": "3.30",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/d19agzc.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "French Fries (Small)",
+  "productId": "12",
+  "productPrice": "2.20",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/lo032ad.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Wedges (Extra)",
+  "productId": "13",
+  "productPrice": "4.90",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/luo0y2s.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Wedges (Large)",
+  "productId": "14",
+  "productPrice": "4.30",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/huqdikm.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Chicken wings (3 pcs)",
+  "productId": "15",
+  "productPrice": "3.80",
+  "productDes": "Crispy and delicious chicken wings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/7vf46ja.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken wings (5 pcs)",
+  "productId": "16",
+  "productPrice": "5.95",
+  "productDes": "Crispy and delicious chicken wings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/t2hv3xp.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken wings (8 pcs)",
+  "productId": "17",
+  "productPrice": "8.50",
+  "productDes": "Crispy and delicious chicken wings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/h52bx8j.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken McNuggets (4 pcs.)",
+  "productId": "18",
+  "productPrice": "2.90",
+  "productDes": "Deep-fired chicken fillet.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/lyqzv08.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken McNuggets (9 pcs.)",
+  "productId": "19",
+  "productPrice": "6.95",
+  "productDes": "Deep-fired chicken fillet. The sauce choice is up to you.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/bw1pd3m.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Onion Rings (5 pcs.)",
+  "productId": "20",
+  "productPrice": "2.80",
+  "productDes": "Deep-fried onion rings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/qnltiif.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Onion Rings (10 pcs.)",
+  "productId": "21",
+  "productPrice": "4.40",
+  "productDes": "Deep-fried onion rings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/162bnsz.jpg",
+  "productCategory": "Snacks"
   }
  ]
