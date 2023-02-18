@@ -51,7 +51,7 @@
   },
   {
   "productName": "Chickenburger",
-  "productId": "5",
+  "productId": "6",
   "productPrice": "3.20",
   "productDes": "A smaller crispy 100% chicken patty nestled inside a caramlized bun with salad and a special spicy tomato sauce.",
   "productDisCount": "",
@@ -61,7 +61,7 @@
   },
   {
   "productName": "McChicken™",
-  "productId": "6",
+  "productId": "7",
   "productPrice": "4.50",
   "productDes": "Fried, breaded crispy chicken fillet served on a caramelized bun, with fresh Iceberg lettuce and special McChicken™ sauce.",
   "productDisCount": "",
@@ -71,7 +71,7 @@
   },
   {
   "productName": "Double McChicken™",
-  "productId": "7",
+  "productId": "8",
   "productPrice": "6.80",
   "productDes": "Two fried, breaded crispy chicken fillet served on a caramelized bun, with fresh Iceberg lettuce and special McChicken™ sauce.",
   "productDisCount": "",
@@ -81,7 +81,7 @@
   },
   {
   "productName": "French Fries (Extra)",
-  "productId": "8",
+  "productId": "9",
   "productPrice": "4.30",
   "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
   "productDisCount": "",
@@ -91,7 +91,7 @@
   },
   {
   "productName": "French Fries (Large)",
-  "productId": "9",
+  "productId": "10",
   "productPrice": "3.95",
   "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
   "productDisCount": "",
@@ -101,7 +101,7 @@
   },
   {
   "productName": "French Fries (Medium)",
-  "productId": "10",
+  "productId": "11",
   "productPrice": "3.30",
   "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
   "productDisCount": "",
@@ -111,7 +111,7 @@
   },
   {
   "productName": "French Fries (Small)",
-  "productId": "11",
+  "productId": "12",
   "productPrice": "2.20",
   "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
   "productDisCount": "",
@@ -121,7 +121,7 @@
   },
   {
   "productName": "Wedges (Extra)",
-  "productId": "12",
+  "productId": "13",
   "productPrice": "4.90",
   "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
   "productDisCount": "",
@@ -131,7 +131,7 @@
   },
   {
   "productName": "Wedges (Large)",
-  "productId": "13",
+  "productId": "14",
   "productPrice": "4.30",
   "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
   "productDisCount": "",
@@ -141,7 +141,7 @@
   },
   {
   "productName": "Chicken wings (3 pcs)",
-  "productId": "14",
+  "productId": "15",
   "productPrice": "3.80",
   "productDes": "Crispy and delicious chicken wings.",
   "productDisCount": "",
@@ -151,7 +151,7 @@
   },
   {
   "productName": "Chicken wings (5 pcs)",
-  "productId": "15",
+  "productId": "16",
   "productPrice": "5.95",
   "productDes": "Crispy and delicious chicken wings.",
   "productDisCount": "",
@@ -161,7 +161,7 @@
   },
   {
   "productName": "Chicken wings (8 pcs)",
-  "productId": "16",
+  "productId": "17",
   "productPrice": "8.50",
   "productDes": "Crispy and delicious chicken wings.",
   "productDisCount": "",
@@ -171,7 +171,7 @@
   },
   {
   "productName": "Chicken McNuggets (4 pcs.)",
-  "productId": "17",
+  "productId": "18",
   "productPrice": "2.90",
   "productDes": "Deep-fired chicken fillet.",
   "productDisCount": "",
@@ -181,7 +181,7 @@
   },
   {
   "productName": "Chicken McNuggets (9 pcs.)",
-  "productId": "18",
+  "productId": "19",
   "productPrice": "6.95",
   "productDes": "Deep-fired chicken fillet. The sauce choice is up to you.",
   "productDisCount": "",
@@ -191,7 +191,7 @@
   },
   {
   "productName": "Onion Rings (5 pcs.)",
-  "productId": "19",
+  "productId": "20",
   "productPrice": "2.80",
   "productDes": "Deep-fried onion rings.",
   "productDisCount": "",
@@ -201,7 +201,7 @@
   },
   {
   "productName": "Onion Rings (10 pcs.)",
-  "productId": "20",
+  "productId": "21",
   "productPrice": "4.40",
   "productDes": "Deep-fried onion rings.",
   "productDisCount": "",
