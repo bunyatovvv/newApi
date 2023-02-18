@@ -7,7 +7,7 @@
     "productDisCount": "",
     "productBrand": "McDonald's",
     "productImage": "https://i.hizliresim.com/7u094v2.jpg",
-    "productCategory": "Special Order",
+    "productCategory": "Special Order"
   },
   {
     "productName": "Large Big Mac meal",
@@ -17,7 +17,7 @@
     "productDisCount": "",
     "productBrand": "McDonald's",
     "productImage": "https://i.hizliresim.com/dxwv7mi.jpeg",
-    "productCategory": "Special Order",
+    "productCategory": "Special Order"
   },
   {
     "productName": "Large McChicken meal",
@@ -27,6 +27,6 @@
     "productDisCount": "",
     "productBrand": "McDonald's",
     "productImage": "hhttps://i.hizliresim.com/kx7e3g5.jpeg",
-    "productCategory": "Special Order",
+    "productCategory": "Special Order"
   }
 ]
