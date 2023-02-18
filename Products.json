@@ -41,7 +41,7 @@
   },
   {
   "productName": "Hamburger",
-  "productId": "5,
+  "productId": "5",
   "productPrice": "2.10",
   "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
   "productDisCount": "",
@@ -51,7 +51,7 @@
   },
   {
   "productName": "Hamburger",
-  "productId": "6,
+  "productId": "6",
   "productPrice": "2.10",
   "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
   "productDisCount": "",
@@ -61,7 +61,7 @@
   },
   {
   "productName": "Hamburger",
-  "productId": "7,
+  "productId": "7",
   "productPrice": "2.10",
   "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
   "productDisCount": "",
