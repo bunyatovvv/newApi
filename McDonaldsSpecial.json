@@ -1,0 +1,32 @@
+[
+  {
+    "productName": "Large Big Tasty (beef) meal",
+    "productId": "1",
+    "productPrice": "12.50",
+    "productDes": "1 Big Tasty (beef), 1 large French Fries, 1 large drink",
+    "productDisCount": "",
+    "productBrand": "McDonald's",
+    "productImage": "https://i.hizliresim.com/7u094v2.jpg",
+    "productCategory": "Special Order",
+  },
+  {
+    "productName": "Large Big Mac meal",
+    "productId": "2",
+    "productPrice": "9.90",
+    "productDes": "1 Big Mac, 1 large French Fries, 1 large drink",
+    "productDisCount": "",
+    "productBrand": "McDonald's",
+    "productImage": "https://i.hizliresim.com/dxwv7mi.jpeg",
+    "productCategory": "Special Order",
+  },
+  {
+    "productName": "Large McChicken meal",
+    "productId": "3",
+    "productPrice": "9.90",
+    "productDes": "1 McChicken, 1 large French Fries, 1 large drink",
+    "productDisCount": "",
+    "productBrand": "McDonald's",
+    "productImage": "hhttps://i.hizliresim.com/kx7e3g5.jpeg",
+    "productCategory": "Special Order",
+  }
+]
