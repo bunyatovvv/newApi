@@ -8,25 +8,5 @@
   "productBrand": "McDonald's",
   "productImage": "https://i.hizliresim.com/okpjcwc.jpg",
   "productCategory": "Burgers"
-  },
-  {
-  "productName": "Grand Cheese (Beef)",
-  "productId": "2",
-  "productPrice": "7.50",
-  "productDes": "Grand Cheese burger consists of 1 steak of 100% beef, 1 slice of tomato, lettuce, pieces of Emmental & Cheddar cheeses, crispy onions and cheese sauce in a brioche bun with sesame and poppy seeds.",
-  "productDisCount": "",
-  "productBrand": "McDonald's",
-  "productImage": "https://i.hizliresim.com/pguvds7.jpg",
-  "productCategory": "Burgers"
-  }
-  {
-  "productName": "Grand Cheese (Chicken)",
-  "productId": "3",
-  "productPrice": "7.50",
-  "productDes": "Grand Cheese burger consists of 1 chicken patty, 1 slice of tomato, lettuce, pieces of Emmental & Cheddar cheeses, crispy onions and cheese sauce in a brioche bun with sesame and poppy seeds.",
-  "productDisCount": "",
-  "productBrand": "McDonald's",
-  "productImage": "https://i.hizliresim.com/n9rzthz.jpg",
-  "productCategory": "Burgers"
   }
  ]
