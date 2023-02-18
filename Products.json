@@ -1,42 +1,212 @@
 [
   {
-    "productName": "Hamburger",
-    "productId": "1",
-    "productPrice": "2.10",
-    "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
-    "productDisCount": "",
-    "productBrand": "McDonald's",
-    "productImage": "https://i.hizliresim.com/okpjcwc.jpg",
-    "productCategory": "Burgers"
+  "productName": "Hamburger",
+  "productId": "1",
+  "productPrice": "2.10",
+  "productDes": "Burger made of a 100% pure beef patty, onions, pickles and just the right amount of mustard and ketchup wrapped in a caramelized bun.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/okpjcwc.jpg",
+  "productCategory": "Burgers"
   },
   {
-    "productName": "Grand Cheese (Beef)",
-    "productId": "2",
-    "productPrice": "7.50",
-    "productDes": "Grand Cheese burger consists of 1 steak of 100% beef, 1 slice of tomato, lettuce, pieces of Emmental & Cheddar cheeses, crispy onions and cheese sauce in a brioche bun with sesame and poppy seeds.",
-    "productDisCount": "",
-    "productBrand": "McDonald's",
-    "productImage": "https://i.hizliresim.com/pguvds7.jpg",
-    "productCategory": "Burgers"
-  },
-  {
-    "productName": "Grand Cheese (Chicken)",
-    "productId": "3",
-    "productPrice": "7.50",
-    "productDes": "Grand Cheese burger consists of 1 chicken patty, 1 slice of tomato, lettuce, pieces of Emmental & Cheddar cheeses, crispy onions and cheese sauce in a brioche bun with sesame and poppy seeds.",
-    "productDisCount": "",
-    "productBrand": "McDonald's",
-    "productImage": "https://i.hizliresim.com/n9rzthz.jpg",
-    "productCategory": "Burgers"
-  },
-  {
-    "productName": "Cheeseburger",
-    "productId": "4",
-    "productPrice": "2.50",
-    "productDes": "A classic combination including a 100% pure beef patty, pickles, onion, mustard and ketchup, and of course, a slice of melted Cheddar cheese in a caramelized bun.",
-    "productDisCount": "",
-    "productBrand": "McDonald's",
-    "productImage": "https://i.hizliresim.com/gqud2p6.jpg",
-    "productCategory": "Burgers"
+  "productName": "Grand Cheese (Beef)",
+  "productId": "2",
+  "productPrice": "7.50",
+  "productDes": "Grand Cheese burger consists of 1 steak of 100% beef, 1 slice of tomato, lettuce, pieces of Emmental & Cheddar cheeses, crispy onions and cheese sauce in a brioche bun with sesame and poppy seeds.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/pguvds7.jpg",
+  "productCategory": "Burgers"
   }
-]
+  {
+  "productName": "Grand Cheese (Chicken)",
+  "productId": "3",
+  "productPrice": "7.50",
+  "productDes": "Grand Cheese burger consists of 1 chicken patty, 1 slice of tomato, lettuce, pieces of Emmental & Cheddar cheeses, crispy onions and cheese sauce in a brioche bun with sesame and poppy seeds.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/n9rzthz.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Cheeseburger",
+  "productId": "4",
+  "productPrice": "2.50",
+  "productDes": "A classic combination including a 100% pure beef patty, pickles, onion, mustard and ketchup, and of course, a slice of melted Cheddar cheese in a caramelized bun.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/gqud2p6.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Double Cheeseburger",
+  "productId": "5",
+  "productPrice": "4.40",
+  "productDes": "Two 100% beefy patties, two slices of melted cheese, tangy pickles, minced onions, ketchup and mustard served in a caramelized bun.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/tv0amn1.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Chickenburger",
+  "productId": "5",
+  "productPrice": "3.20",
+  "productDes": "A smaller crispy 100% chicken patty nestled inside a caramlized bun with salad and a special spicy tomato sauce.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/woep3w1.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "McChicken™",
+  "productId": "6",
+  "productPrice": "4.50",
+  "productDes": "Fried, breaded crispy chicken fillet served on a caramelized bun, with fresh Iceberg lettuce and special McChicken™ sauce.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/ac5ri78.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Double McChicken™",
+  "productId": "7",
+  "productPrice": "6.80",
+  "productDes": "Two fried, breaded crispy chicken fillet served on a caramelized bun, with fresh Iceberg lettuce and special McChicken™ sauce.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/7fl6m12.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "French Fries (Extra)",
+  "productId": "8",
+  "productPrice": "4.30",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/2064tlq.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "French Fries (Large)",
+  "productId": "9",
+  "productPrice": "3.95",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/jy8nrci.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "French Fries (Medium)",
+  "productId": "10",
+  "productPrice": "3.30",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/d19agzc.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "French Fries (Small)",
+  "productId": "11",
+  "productPrice": "2.20",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/lo032ad.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Wedges (Extra)",
+  "productId": "12",
+  "productPrice": "4.90",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/luo0y2s.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Wedges (Large)",
+  "productId": "13",
+  "productPrice": "4.30",
+  "productDes": "Delicious, deep-fried and slightly salted potato sticks.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/huqdikm.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Chicken wings (3 pcs)",
+  "productId": "14",
+  "productPrice": "3.80",
+  "productDes": "Crispy and delicious chicken wings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/7vf46ja.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken wings (5 pcs)",
+  "productId": "15",
+  "productPrice": "5.95",
+  "productDes": "Crispy and delicious chicken wings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/t2hv3xp.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken wings (8 pcs)",
+  "productId": "16",
+  "productPrice": "8.50",
+  "productDes": "Crispy and delicious chicken wings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/h52bx8j.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken McNuggets (4 pcs.)",
+  "productId": "17",
+  "productPrice": "2.90",
+  "productDes": "Deep-fired chicken fillet.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/lyqzv08.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Chicken McNuggets (9 pcs.)",
+  "productId": "18",
+  "productPrice": "6.95",
+  "productDes": "Deep-fired chicken fillet. The sauce choice is up to you.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/bw1pd3m.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Onion Rings (5 pcs.)",
+  "productId": "19",
+  "productPrice": "2.80",
+  "productDes": "Deep-fried onion rings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/qnltiif.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Onion Rings (10 pcs.)",
+  "productId": "20",
+  "productPrice": "4.40",
+  "productDes": "Deep-fried onion rings.",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/162bnsz.jpg",
+  "productCategory": "Snacks"
+  }
+ ]
