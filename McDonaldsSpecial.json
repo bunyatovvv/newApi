@@ -20,13 +20,24 @@
     "productCategory": "Special Order"
   },
   {
-    "productName": "Large McChicken meal",
+    "productName": "Boxmaster Original",
     "productId": "3",
-    "productPrice": "9.90",
-    "productDes": "1 McChicken, 1 large French Fries, 1 large drink",
+    "productPrice": "6.90",
+    "productDes": "Total reload! Heavy energy load in our Boxmaster! Juicy chicken fillet in crispy hot or original coating, crusty hash brown, piece of cheese, tomato chunks, lettuce and tender sauce in hot flat bread — dynamic and tasty!
+",
     "productDisCount": "",
-    "productBrand": "McDonald's",
-    "productImage": "hhttps://i.hizliresim.com/kx7e3g5.jpeg",
-    "productCategory": "Special Order"
+    "productBrand": "KFC",
+    "productImage": "https://i.hizliresim.com/9pk810o.jpeg",
+    "productCategory": "Sandwiches"
+  },
+  {
+    "productName": "Hot Choclate",
+    "productId": "4",
+    "productPrice": "6.00",
+    "productDes": "Tebii belcika sokoladi, sud",
+    "productDisCount": "",
+    "productBrand": "WakeUp Coffee",
+    "productImage": "https://i.hizliresim.com/e4l1lny.jpeg",
+    "productCategory": "Coffee"
   }
 ]
