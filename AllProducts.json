@@ -217,7 +217,7 @@
   "productDisCount": "",
   "productBrand": "McDonald's",
   "productImage": "https://i.hizliresim.com/4hf3wg8.jpg",
-  "productCategory": "Special Offers",
+  "productCategory": "Special Offers"
   },
   {
   "productName": "Large Big Tasty (beef) meal",
@@ -227,7 +227,7 @@
   "productDisCount": "",
   "productBrand": "McDonald's",
   "productImage": "https://i.hizliresim.com/caib3h6.jpg",
-  "productCategory": "Special Offers",
+  "productCategory": "Special Offers"
   },
   {
   "productName": "Large Big Tasty (chicken) meal",
@@ -237,7 +237,7 @@
   "productDisCount": "",
   "productBrand": "McDonald's",
   "productImage": "https://i.hizliresim.com/or7rt2f.jpg",
-  "productCategory": "Special Offers",
+  "productCategory": "Special Offers"
   },
   {
   "productName": "Large Filet-o-Fish meal",
@@ -247,7 +247,7 @@
   "productDisCount": "",
   "productBrand": "McDonald's",
   "productImage": "https://i.hizliresim.com/9rpj8dy.jpg",
-  "productCategory": "Special Offers",
+  "productCategory": "Special Offers"
   },
   {
   "productName": "Large Double Cheeseburger meal",
@@ -257,7 +257,7 @@
   "productDisCount": "",
   "productBrand": "McDonald's",
   "productImage": "https://i.hizliresim.com/gnr2ey7.jpg",
-  "productCategory": "Special Offers",
+  "productCategory": "Special Offers"
   },
   {
   "productName": "Twister Junior Menu",
@@ -267,7 +267,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/sgqkbdm.jpg",
-  "productCategory": "Special Offers",
+  "productCategory": "Special Offers"
   },
   {
   "productName": "Boxmaster Original",
@@ -277,7 +277,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/98qm0kb.jpg",
-  "productCategory": "Sandwiches",
+  "productCategory": "Sandwiches"
   },
   {
   "productName": "Twister De Lux Original",
@@ -287,7 +287,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/8futti3.jpg",
-  "productCategory": "Sandwiches",
+  "productCategory": "Sandwiches"
   },
   {
   "productName": "Twister Original",
@@ -297,7 +297,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/2fj4d13.jpg",
-  "productCategory": "Sandwiches",
+  "productCategory": "Sandwiches"
   },
   {
   "productName": "i-Twister",
@@ -307,7 +307,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/k70n118.jpg",
-  "productCategory": "Sandwiches",
+  "productCategory": "Sandwiches"
   },
   {
   "productName": "Big Sanders Burger Original",
@@ -317,7 +317,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/b5qs9ra.jpg",
-  "productCategory": "Burgers",
+  "productCategory": "Burgers"
   },
   {
   "productName": "Shefburger Original",
@@ -327,7 +327,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/ck13kg4.jpg",
-  "productCategory": "Burgers",
+  "productCategory": "Burgers"
   },
   {
   "productName": "Cheeseburger De Lux",
@@ -337,7 +337,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/13e1m9l.jpg",
-  "productCategory": "Burgers",
+  "productCategory": "Burgers"
   },
   {
   "productName": "Cheeseburger",
@@ -347,7 +347,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/hxb7ddm.jpg",
-  "productCategory": "Burgers",
+  "productCategory": "Burgers"
   },
   {
   "productName": "Cheese Pillows (3 pcs.)",
@@ -357,7 +357,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/p0w66v0.jpg",
-  "productCategory": "Snacks",
+  "productCategory": "Snacks"
   },
   {
   "productName": "Cheese Pillows (5 pcs.)",
@@ -377,7 +377,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/r7lsci6.jpg",
-  "productCategory": "Fries",
+  "productCategory": "Fries"
   },
   {
   "productName": "Small Potato Wedges",
@@ -387,7 +387,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/kxpmgby.jpg",
-  "productCategory": "Fries",
+  "productCategory": "Fries"
   },
   {
   "productName": "Sander French Fries",
@@ -397,7 +397,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/n54v2e1.jpg",
-  "productCategory": "Fries",
+  "productCategory": "Fries"
   },
   {
   "productName": "Sanders Wedges",
@@ -407,7 +407,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/kagxla4.jpg",
-  "productCategory": "Fries",
+  "productCategory": "Fries"
   },
   {
   "productName": "Drumstick Original (1 pc.)",
@@ -417,7 +417,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/gtzavpm.jpg",
-  "productCategory": "Chicken",
+  "productCategory": "Chicken"
   },
   {
   "productName": "Strips Original (3 pcs.)",
@@ -427,7 +427,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/bq8kb1z.jpg",
-  "productCategory": "Chicken",
+  "productCategory": "Chicken"
   },
   {
   "productName": "Wings (6 pcs.)",
@@ -437,7 +437,7 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/87vh7mv.jpg",
-  "productCategory": "Chicken",
+  "productCategory": "Chicken"
   },
   {
   "productName": "Wings (6 pcs.)",
@@ -447,6 +447,6 @@
   "productDisCount": "",
   "productBrand": "KFC",
   "productImage": "https://i.hizliresim.com/87vh7mv.jpg",
-  "productCategory": "Chicken",
+  "productCategory": "Chicken"
   }
  ]
