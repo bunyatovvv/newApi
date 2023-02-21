@@ -208,5 +208,245 @@
   "productBrand": "McDonald's",
   "productImage": "https://i.hizliresim.com/162bnsz.jpg",
   "productCategory": "Snacks"
+  },
+  {
+  "productName": "Large Big Mac meal",
+  "productId": "22",
+  "productPrice": "9.90",
+  "productDes": "1 Big Mac, 1 large French Fries, 1 large drink",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/4hf3wg8.jpg",
+  "productCategory": "Special Offers"
+  },
+  {
+  "productName": "Large Big Tasty (beef) meal",
+  "productId": "23",
+  "productPrice": "12.50",
+  "productDes": "1 Big Tasty (beef), 1 large French Fries, 1 large drink",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/caib3h6.jpg",
+  "productCategory": "Special Offers"
+  },
+  {
+  "productName": "Large Big Tasty (chicken) meal",
+  "productId": "24",
+  "productPrice": "12.50",
+  "productDes": "1 Big Tasty (chicken), 1 large French Fries, 1 large drink",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/or7rt2f.jpg",
+  "productCategory": "Special Offers"
+  },
+  {
+  "productName": "Large Filet-o-Fish meal",
+  "productId": "25",
+  "productPrice": "9.90",
+  "productDes": "1 Filet-o-Fish, 1 large French Fries, 1 large drink",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/9rpj8dy.jpg",
+  "productCategory": "Special Offers"
+  },
+  {
+  "productName": "Large Double Cheeseburger meal",
+  "productId": "26",
+  "productPrice": "9.90",
+  "productDes": "1 Double Cheeseburger, 1 large French Fries, 1 large drink",
+  "productDisCount": "",
+  "productBrand": "McDonald's",
+  "productImage": "https://i.hizliresim.com/gnr2ey7.jpg",
+  "productCategory": "Special Offers"
+  },
+  {
+  "productName": "Twister Junior Menu",
+  "productId": "27",
+  "productPrice": "8.00",
+  "productDes": "Twister junior, small french fries, sauce, Coca-Cola® 500 ml.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/sgqkbdm.jpg",
+  "productCategory": "Special Offers"
+  },
+  {
+  "productName": "Boxmaster Original",
+  "productId": "28",
+  "productPrice": "6.90",
+  "productDes": "Total reload! Heavy energy load in our Boxmaster! Juicy chicken fillet in crispy hot or original coating, crusty hash brown, piece of cheese, tomato chunks, lettuce and tender sauce in hot flat bread — dynamic and tasty!",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/98qm0kb.jpg",
+  "productCategory": "Sandwiches"
+  },
+  {
+  "productName": "Twister De Lux Original",
+  "productId": "29",
+  "productPrice": "5.90",
+  "productDes": "Favorite Twister is now De Lux: wheat wrap, ketchup, pickled cucumber, crispy chicken strips, salad, mustard, cheese and onion.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/8futti3.jpg",
+  "productCategory": "Sandwiches"
+  },
+  {
+  "productName": "Twister Original",
+  "productId": "30",
+  "productPrice": "5.20",
+  "productDes": "Twisted with taste! We wrapped nuggets of soft chicken fillet in crispy hot or original coating with luscious lettuce, tomato chunks and tender sauce in wheat flat bread. Here’s when the twist stated!",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/2fj4d13.jpg",
+  "productCategory": "Sandwiches"
+  },
+  {
+  "productName": "i-Twister",
+  "productId": "31",
+  "productPrice": "2.10",
+  "productDes": "Wrapp with chunks of soft chicken fillet in crispy hot or original coating with luscious lettuce, tomato pieces and tender sauce.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/k70n118.jpg",
+  "productCategory": "Sandwiches"
+  },
+  {
+  "productName": "Big Sanders Burger Original",
+  "productId": "32",
+  "productPrice": "8.40",
+  "productDes": "Fantastic big and super tasty! Triple chicken strips, double cheese, fresh vegetables and special sauce on Brioche bun.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/b5qs9ra.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Shefburger Original",
+  "productId": "33",
+  "productPrice": "4.90",
+  "productDes": "Shefburger means white sesame bun, thin lettuce leaves and sauce and crispy chicken breast in special breading.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/ck13kg4.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Cheeseburger De Lux",
+  "productId": "34",
+  "productPrice": "4.60",
+  "productDes": "Spicy mustard sauce, ketchup, fillet in the original breading, onions, cheddar cheese, cucumbers on a wheat bun with corn sprinkling, fresh salad and tomato slices.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/13e1m9l.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Cheeseburger",
+  "productId": "35",
+  "productPrice": "3.90",
+  "productDes": "Herby mustard sauce, ketchup, juicy chicken strips in original breading, onion, cheddar cheese, pickles on a corn bun.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/hxb7ddm.jpg",
+  "productCategory": "Burgers"
+  },
+  {
+  "productName": "Cheese Pillows (3 pcs.)",
+  "productId": "36",
+  "productPrice": "2.90",
+  "productDes": "Mini vegetarian Gouda cheese turnover, with a crispy dough coating, quick frozen. Brand new pillow shape perfect as a starter, within a sandwich or near drinks.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/p0w66v0.jpg",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Cheese Pillows (5 pcs.)",
+  "productId": "37",
+  "productPrice": "3.90",
+  "productDes": "Mini vegetarian Gouda cheese turnover, with a crispy dough coating, quick frozen. Brand new pillow shape perfect as a starter, within a sandwich or near drinks.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/9ni06dz.png",
+  "productCategory": "Snacks"
+  },
+  {
+  "productName": "Bucket Fries",
+  "productId": "38",
+  "productPrice": "4.30",
+  "productDes": "Kentucky Fried Chicken provides the best, the most scrumptiously cripsy fried chicken and zinger burgers that will leave your mouth watering for more.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/r7lsci6.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Small Potato Wedges",
+  "productId": "39",
+  "productPrice": "2.80",
+  "productDes": "Kentucky Fried Chicken provides the best, the most scrumptiously cripsy fried chicken and zinger burgers that will leave your mouth watering for more.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/kxpmgby.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Sander French Fries",
+  "productId": "40",
+  "productPrice": "3.90",
+  "productDes": "Favorite french fries with fried onion and special dressing.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/n54v2e1.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Sanders Wedges",
+  "productId": "41",
+  "productPrice": "3.90",
+  "productDes": "Favorite french fries with fried onion and special dressing.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/kagxla4.jpg",
+  "productCategory": "Fries"
+  },
+  {
+  "productName": "Drumstick Original (1 pc.)",
+  "productId": "42",
+  "productPrice": "3.20",
+  "productDes": "Drumsticks is the favorite chicken part for everyone since childhood. Now you have one more tasty reason to visit KFC: new KFC Chicken Drumsticks in original recipe! Enjoy the legendary KFC taste in every bite! Juicy fresh chicken meat hand-breaded and cooked in the restaurant according to Colonel Sanders’ secret recipe of “11 herbs and spices”.",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/gtzavpm.jpg",
+  "productCategory": "Chicken"
+  },
+  {
+  "productName": "Strips Original (3 pcs.)",
+  "productId": "43",
+  "productPrice": "4.20",
+  "productDes": "Only your favorite taste and nothing else. Extremely soft chicken fillet hand-breaded and cooked in the restaurant according to Colonel Sanders’ unique recipe. Perfect taste!",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/bq8kb1z.jpg",
+  "productCategory": "Chicken"
+  },
+  {
+  "productName": "Wings (6 pcs.)",
+  "productId": "44",
+  "productPrice": "6.80",
+  "productDes": "Fire inside! Far from angels’ wings! Our hot chicken wings in crispy coating with spices — the true fire!",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/87vh7mv.jpg",
+  "productCategory": "Chicken"
+  },
+  {
+  "productName": "Wings (6 pcs.)",
+  "productId": "44",
+  "productPrice": "6.80",
+  "productDes": "Fire inside! Far from angels’ wings! Our hot chicken wings in crispy coating with spices — the true fire!",
+  "productDisCount": "",
+  "productBrand": "KFC",
+  "productImage": "https://i.hizliresim.com/87vh7mv.jpg",
+  "productCategory": "Chicken"
   }
  ]
